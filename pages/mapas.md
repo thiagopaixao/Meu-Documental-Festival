@@ -1,7 +1,7 @@
 ---
 standalone: true
 title: Mapas Livres
-slug: mapa
+slug: home
 projeto: Mapas Livres
 pageSettings:
   language: pt-BR
